@@ -1,1 +1,34 @@
-
+h {
+	}
+	
+	p {
+	}
+	
+	body{
+		background-color: white;
+	}
+	ul{
+		border-style: solid;
+		overflow: hidden;
+		border-width: 5px;
+		background-color: black;
+		font-color: white;
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		}
+	li{
+		color: white;
+		font-color: white;
+		display: inline;
+		}
+	li a {
+			display: inline;
+			color: white;
+			text-align: center;
+			padding: 10px 16px;
+			text-decoration: none;
+		}
+	li a:hover {
+		background-color: gray;
+		}
