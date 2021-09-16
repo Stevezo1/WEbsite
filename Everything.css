@@ -10,7 +10,7 @@ h {
 	ul{
 		border-style: solid;
 		overflow: hidden;
-		border-width: 5px;
+		border-width: 0px;
 		background-color: black;
 		font-color: white;
 		list-style-type: none;
